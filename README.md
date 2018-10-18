@@ -1,5 +1,5 @@
 # SenseBits
-Servo connector compatible, buffered LED driver, unbuffered NeoPixel, and unbuffered piezo transducer boards.
+Three-pin servo connector compatible, buffered LED driver, unbuffered NeoPixel, and unbuffered piezo transducer boards.
 
 LED SenseBit:
 Supply voltage: 2 to 6 volts. LED current: 35mA max. Only one LED should be connected to either the SMD 0805 pads or the through-hole pads. R1 is selected based on supply voltage, the LED forward voltage, and the desired LED current level.
